@@ -2,9 +2,6 @@
 
 **NexusPay** (anteriormente EndyOS Pay) es una aplicación móvil de finanzas personales diseñada para ofrecer un control absoluto, visual y proactivo sobre compromisos financieros recurrentes. Construida con React Native y Expo, te permite anticipar lo que tienes que pagar y organizar lo que te deben mes a mes sin fricciones.
 
-
-<img width="472" height="1024" alt="image" src="https://github.com/user-attachments/assets/597bcc94-c709-46f4-ae87-d260d1205b78" />
-
 ---
 
 ## ✨ Características Principales
@@ -45,3 +42,5 @@ my-expo-app/
 ├── global.css            # Variables y directivas de Tailwind CSS
 ├── tailwind.config.js    # Configuración de NativeWind
 └── package.json          # Dependencias y scripts
+
+<img width="472" height="1024" alt="image" src="https://github.com/user-attachments/assets/597bcc94-c709-46f4-ae87-d260d1205b78" />
