@@ -42,5 +42,5 @@ my-expo-app/
 ├── global.css            # Variables y directivas de Tailwind CSS
 ├── tailwind.config.js    # Configuración de NativeWind
 └── package.json          # Dependencias y scripts
-
+```
 <img width="472" height="1024" alt="image" src="https://github.com/user-attachments/assets/597bcc94-c709-46f4-ae87-d260d1205b78" />
